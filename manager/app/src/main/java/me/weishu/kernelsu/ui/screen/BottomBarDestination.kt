@@ -6,7 +6,7 @@ import androidx.compose.material.icons.filled.*
 import androidx.compose.material.icons.outlined.*
 import androidx.compose.ui.graphics.vector.ImageVector
 import com.ramcosta.composedestinations.spec.DirectionDestinationSpec
-import me.weishu.kernelsu.R
+import me.hidden.hidden.R
 import me.weishu.kernelsu.ui.screen.destinations.HomeScreenDestination
 import me.weishu.kernelsu.ui.screen.destinations.SuperUserScreenDestination
 import me.weishu.kernelsu.ui.screen.destinations.ModuleScreenDestination

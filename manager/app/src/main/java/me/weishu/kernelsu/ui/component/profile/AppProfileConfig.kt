@@ -12,7 +12,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import me.weishu.kernelsu.Natives
-import me.weishu.kernelsu.R
+import me.hidden.hidden.R
 import me.weishu.kernelsu.ui.component.SwitchItem
 
 @Composable

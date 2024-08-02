@@ -17,7 +17,7 @@ import com.topjohnwu.superuser.io.SuFile
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlinx.parcelize.Parcelize
-import me.weishu.kernelsu.BuildConfig
+import me.hidden.hidden.BuildConfig
 import me.weishu.kernelsu.Natives
 import me.weishu.kernelsu.ksuApp
 import org.json.JSONArray

@@ -53,7 +53,7 @@ import com.ramcosta.composedestinations.annotation.Destination
 import com.ramcosta.composedestinations.navigation.DestinationsNavigator
 import kotlinx.coroutines.launch
 import me.weishu.kernelsu.Natives
-import me.weishu.kernelsu.R
+import me.hidden.hidden.R
 import me.weishu.kernelsu.ui.component.SwitchItem
 import me.weishu.kernelsu.ui.component.profile.AppProfileConfig
 import me.weishu.kernelsu.ui.component.profile.RootProfileConfig

@@ -67,9 +67,9 @@ import com.ramcosta.composedestinations.navigation.EmptyDestinationsNavigator
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
-import me.weishu.kernelsu.BuildConfig
+import me.hidden.hidden.BuildConfig
 import me.weishu.kernelsu.Natives
-import me.weishu.kernelsu.R
+import me.hidden.hidden.R
 import me.weishu.kernelsu.ui.component.AboutDialog
 import me.weishu.kernelsu.ui.component.ConfirmResult
 import me.weishu.kernelsu.ui.component.DialogHandle

@@ -23,7 +23,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import me.weishu.kernelsu.Natives
-import me.weishu.kernelsu.R
+import me.hidden.hidden.R
 import me.weishu.kernelsu.ui.util.listAppProfileTemplates
 import me.weishu.kernelsu.ui.util.setSepolicy
 import me.weishu.kernelsu.ui.viewmodel.getTemplateInfoById

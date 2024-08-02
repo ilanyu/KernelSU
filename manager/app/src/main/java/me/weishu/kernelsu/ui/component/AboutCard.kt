@@ -29,8 +29,8 @@ import androidx.compose.ui.window.Dialog
 import androidx.core.content.res.ResourcesCompat
 import androidx.core.text.HtmlCompat
 import com.google.accompanist.drawablepainter.rememberDrawablePainter
-import me.weishu.kernelsu.BuildConfig
-import me.weishu.kernelsu.R
+import me.hidden.hidden.BuildConfig
+import me.hidden.hidden.R
 
 @Preview
 @Composable

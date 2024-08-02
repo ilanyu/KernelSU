@@ -49,7 +49,7 @@ import com.maxkeppeler.sheets.list.ListDialog
 import com.maxkeppeler.sheets.list.models.ListOption
 import com.maxkeppeler.sheets.list.models.ListSelection
 import me.weishu.kernelsu.Natives
-import me.weishu.kernelsu.R
+import me.hidden.hidden.R
 import me.weishu.kernelsu.profile.Capabilities
 import me.weishu.kernelsu.profile.Groups
 import me.weishu.kernelsu.ui.component.rememberCustomDialog

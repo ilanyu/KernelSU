@@ -52,7 +52,7 @@ import com.ramcosta.composedestinations.result.ResultRecipient
 import com.ramcosta.composedestinations.result.getOr
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
-import me.weishu.kernelsu.R
+import me.hidden.hidden.R
 import me.weishu.kernelsu.ui.screen.destinations.TemplateEditorScreenDestination
 import me.weishu.kernelsu.ui.viewmodel.TemplateViewModel
 
